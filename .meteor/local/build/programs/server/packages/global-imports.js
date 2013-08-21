@@ -1,5 +1,7 @@
 /* Imports for global scope */
 
+Accounts = Package['accounts-base'].Accounts;
+Email = Package.email.Email;
 Meteor = Package.meteor.Meteor;
 WebApp = Package.webapp.WebApp;
 main = Package.webapp.main;

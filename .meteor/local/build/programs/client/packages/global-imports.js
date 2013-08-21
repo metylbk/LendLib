@@ -1,5 +1,6 @@
 /* Imports for global scope */
 
+Accounts = Package['accounts-base'].Accounts;
 Meteor = Package.meteor.Meteor;
 Log = Package.logging.Log;
 Deps = Package.deps.Deps;

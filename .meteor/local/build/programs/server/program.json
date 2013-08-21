@@ -18,11 +18,6 @@
       "sourceMapRoot": "packages"
     },
     {
-      "path": "packages/insecure.js",
-      "sourceMap": "packages/insecure.js.map",
-      "sourceMapRoot": "packages"
-    },
-    {
       "path": "packages/spark.js",
       "sourceMap": "packages/spark.js.map",
       "sourceMapRoot": "packages"
@@ -43,6 +38,31 @@
       "sourceMapRoot": "packages"
     },
     {
+      "path": "packages/check.js",
+      "sourceMap": "packages/check.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/random.js",
+      "sourceMap": "packages/random.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/ordered-dict.js",
+      "sourceMap": "packages/ordered-dict.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/deps.js",
+      "sourceMap": "packages/deps.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/minimongo.js",
+      "sourceMap": "packages/minimongo.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
       "path": "packages/logging.js",
       "node_modules": "npm/logging/main/node_modules",
       "sourceMap": "packages/logging.js.map",
@@ -60,36 +80,6 @@
       "sourceMapRoot": "packages"
     },
     {
-      "path": "packages/deps.js",
-      "sourceMap": "packages/deps.js.map",
-      "sourceMapRoot": "packages"
-    },
-    {
-      "path": "packages/session.js",
-      "sourceMap": "packages/session.js.map",
-      "sourceMapRoot": "packages"
-    },
-    {
-      "path": "packages/check.js",
-      "sourceMap": "packages/check.js.map",
-      "sourceMapRoot": "packages"
-    },
-    {
-      "path": "packages/random.js",
-      "sourceMap": "packages/random.js.map",
-      "sourceMapRoot": "packages"
-    },
-    {
-      "path": "packages/ordered-dict.js",
-      "sourceMap": "packages/ordered-dict.js.map",
-      "sourceMapRoot": "packages"
-    },
-    {
-      "path": "packages/minimongo.js",
-      "sourceMap": "packages/minimongo.js.map",
-      "sourceMapRoot": "packages"
-    },
-    {
       "path": "packages/livedata.js",
       "node_modules": "npm/livedata/main/node_modules",
       "sourceMap": "packages/livedata.js.map",
@@ -99,6 +89,42 @@
       "path": "packages/mongo-livedata.js",
       "node_modules": "npm/mongo-livedata/main/node_modules",
       "sourceMap": "packages/mongo-livedata.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/service-configuration.js",
+      "sourceMap": "packages/service-configuration.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/accounts-base.js",
+      "sourceMap": "packages/accounts-base.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/srp.js",
+      "sourceMap": "packages/srp.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/email.js",
+      "node_modules": "npm/email/main/node_modules",
+      "sourceMap": "packages/email.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/accounts-password.js",
+      "sourceMap": "packages/accounts-password.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/accounts-ui.js",
+      "sourceMap": "packages/accounts-ui.js.map",
+      "sourceMapRoot": "packages"
+    },
+    {
+      "path": "packages/session.js",
+      "sourceMap": "packages/session.js.map",
       "sourceMapRoot": "packages"
     },
     {
