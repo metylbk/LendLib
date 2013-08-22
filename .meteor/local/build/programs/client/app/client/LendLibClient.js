@@ -27,11 +27,9 @@ Template.categories.events({
   },
   'keyup #add-category': function(e, t) {
     if (e.which === 13) {
-      console.log(this.userId);
-      console.log(this);
       var catVal = String(e.target.value || "");
       if (catVal) {
-        lists.insert({Category: catVal, owner:this.userId});
+        lists.insert({Category: catVal, owner:Meteor.userId()});
         Session.set('adding_category', false);
       }
     }
