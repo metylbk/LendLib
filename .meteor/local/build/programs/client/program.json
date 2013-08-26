@@ -333,6 +333,17 @@
       "hash": "b64e7cd4899d58d3ab10b1e5ba3a6c276d3696b7"
     },
     {
+      "path": "packages/accounts-oauth.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-oauth.js?ec0c258ab408470b49f37de355c3b9b55fb044e4",
+      "sourceMap": "packages/accounts-oauth.js.map",
+      "sourceMapUrl": "/packages/ec0c258ab408470b49f37de355c3b9b55fb044e4.map",
+      "size": 7387,
+      "hash": "af13cdc5003e6587a6f95ba5dd8feb2af7baf697"
+    },
+    {
       "path": "packages/accounts-ui-unstyled.js",
       "where": "client",
       "type": "js",
@@ -377,6 +388,72 @@
       "hash": "f76fc2673914565cb24d53262769e7abb14281f7"
     },
     {
+      "path": "packages/oauth.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/oauth.js?4aa2e1486aef79113cba73c17e8cad0e9f8d929d",
+      "sourceMap": "packages/oauth.js.map",
+      "sourceMapUrl": "/packages/4aa2e1486aef79113cba73c17e8cad0e9f8d929d.map",
+      "size": 9082,
+      "hash": "c0984122cbfae263570e5bb8230b4c1ff6e4bfe0"
+    },
+    {
+      "path": "packages/oauth2.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/oauth2.js?228fb002a50ab94e17475623f0e34cd441d691ba",
+      "sourceMap": "packages/oauth2.js.map",
+      "sourceMapUrl": "/packages/228fb002a50ab94e17475623f0e34cd441d691ba.map",
+      "size": 1470,
+      "hash": "a66530ca184b8fb1dc26af912b1d3f37fdcf335d"
+    },
+    {
+      "path": "packages/facebook.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/facebook.js?d13866aba09795d6480224d2f506e89b4e7c179d",
+      "sourceMap": "packages/facebook.js.map",
+      "sourceMapUrl": "/packages/d13866aba09795d6480224d2f506e89b4e7c179d.map",
+      "size": 8863,
+      "hash": "61d05372a12a16c26574644fdbeb0abde9126c1e"
+    },
+    {
+      "path": "packages/accounts-facebook.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-facebook.js?9e890f917b8ec3c3ea39544407a7e982dbc6d5ae",
+      "sourceMap": "packages/accounts-facebook.js.map",
+      "sourceMapUrl": "/packages/9e890f917b8ec3c3ea39544407a7e982dbc6d5ae.map",
+      "size": 5169,
+      "hash": "f7089ca925fa851d324c2b9a3eff4eda66050536"
+    },
+    {
+      "path": "packages/google.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/google.js?af3f209a9f621263be5c2ab68480825d47a142f6",
+      "sourceMap": "packages/google.js.map",
+      "sourceMapUrl": "/packages/af3f209a9f621263be5c2ab68480825d47a142f6.map",
+      "size": 10382,
+      "hash": "3aa778595abe4d2bea263b976c00c95b3fa8eee3"
+    },
+    {
+      "path": "packages/accounts-google.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-google.js?9ef9953d728cd324cfd7280e7b31c1b89ce5eed5",
+      "sourceMap": "packages/accounts-google.js.map",
+      "sourceMapUrl": "/packages/9ef9953d728cd324cfd7280e7b31c1b89ce5eed5.map",
+      "size": 5663,
+      "hash": "ead38991217f463908264bb723dca2e6eb81e216"
+    },
+    {
       "path": "packages/webapp.js",
       "where": "client",
       "type": "js",
@@ -401,9 +478,9 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/template.LendLib.js?2f6b1c999f8b9f946e47a0a5f60a77eca04c33e1",
-      "size": 2000,
-      "hash": "2f6b1c999f8b9f946e47a0a5f60a77eca04c33e1"
+      "url": "/template.LendLib.js?39070574ec76c8e0323156359109c95a17c685fd",
+      "size": 2002,
+      "hash": "39070574ec76c8e0323156359109c95a17c685fd"
     },
     {
       "path": "app/client/LendLibClient.js",
@@ -460,6 +537,24 @@
       "hash": "15fa5b55da5c16ed92ffe0c85c0d6aa0867b9c7f"
     },
     {
+      "path": "packages/accounts-facebook/facebook_login_button.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/packages/accounts-facebook/facebook_login_button.css?7b6e74d628e59311774e7b3409bdc3686e70e788",
+      "size": 417,
+      "hash": "7b6e74d628e59311774e7b3409bdc3686e70e788"
+    },
+    {
+      "path": "packages/accounts-google/google_login_button.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/packages/accounts-google/google_login_button.css?6636e1d8ac79bff54828e78df6e3d407e6b6c38e",
+      "size": 1227,
+      "hash": "6636e1d8ac79bff54828e78df6e3d407e6b6c38e"
+    },
+    {
       "path": "app/LendLib.css",
       "where": "client",
       "type": "css",
@@ -498,7 +593,7 @@
     {
       "path": "app.html",
       "where": "internal",
-      "hash": "fa726174d36d9923add91c88cfb143fe871171be"
+      "hash": "ec8bb11fb053ea9e94c4bf1ba9a8c9f57901eb0b"
     }
   ]
 }

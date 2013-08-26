@@ -10,3 +10,5 @@ accounts-password
 email
 accounts-ui
 bootstrap
+accounts-facebook
+accounts-google
